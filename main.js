@@ -22,7 +22,6 @@ document.addEventListener('onLoad', function (obj) {
     console.log(JSON.stringify(result, null, 2)); // the result will be printed in the console
 */
 
-//semua emoji Wazu dan semua emoji default Youtube
 const emot = [
   {
     "text": ":hand-pink-waving:",
