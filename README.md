@@ -1,5 +1,5 @@
 # YouTube Emoji Replacer for Streamlabs
-This JavaScript snippet automatically replaces YouTube-style emoji text (like `:smile:`) with actual emoji images, using emojis hosted by YouTube (typically from the domain `yt3.ggpht.com`). It’s useful for displaying chat overlays in Streamlabs or OBS with full emoji support.
+This JavaScript snippet automatically replaces YouTube-style emoji text (like `:smile:`) with actual emoji images, using emojis hosted by YouTube. It’s useful for displaying chat overlays in Streamlabs with full emoji support.
 
 ## ✨ Features
 - Converts emoji text from YouTube (e.g., `:laughing:`) into actual emoji images.
